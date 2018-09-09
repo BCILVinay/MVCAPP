@@ -1,0 +1,9 @@
+D:\Projects\POS\POS.Startup.Server\bin\Debug\POS.Startup.Server.exe.config
+D:\Projects\POS\POS.Startup.Server\bin\Debug\POS.Startup.Server.exe
+D:\Projects\POS\POS.Startup.Server\bin\Debug\POS.Startup.Server.pdb
+D:\Projects\POS\POS.Startup.Server\obj\Debug\POS.Startup.Server.csprojResolveAssemblyReference.cache
+D:\Projects\POS\POS.Startup.Server\obj\Debug\POS.Startup.Server.ServerStartupForm.resources
+D:\Projects\POS\POS.Startup.Server\obj\Debug\POS.Startup.Server.Properties.Resources.resources
+D:\Projects\POS\POS.Startup.Server\obj\Debug\POS.Startup.Server.csproj.GenerateResource.Cache
+D:\Projects\POS\POS.Startup.Server\obj\Debug\POS.Startup.Server.exe
+D:\Projects\POS\POS.Startup.Server\obj\Debug\POS.Startup.Server.pdb

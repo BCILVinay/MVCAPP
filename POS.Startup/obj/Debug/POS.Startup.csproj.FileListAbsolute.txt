@@ -1,0 +1,13 @@
+D:\Projects\POS\POS.Startup\bin\Debug\POS.Startup.exe.config
+D:\Projects\POS\POS.Startup\bin\Debug\POS.Startup.exe
+D:\Projects\POS\POS.Startup\bin\Debug\POS.Startup.pdb
+D:\Projects\POS\POS.Startup\bin\Debug\POS.Startup.Client.exe
+D:\Projects\POS\POS.Startup\bin\Debug\POS.Startup.Server.exe
+D:\Projects\POS\POS.Startup\bin\Debug\POS.Startup.Client.pdb
+D:\Projects\POS\POS.Startup\bin\Debug\POS.Startup.Server.pdb
+D:\Projects\POS\POS.Startup\obj\Debug\POS.Startup.csprojResolveAssemblyReference.cache
+D:\Projects\POS\POS.Startup\obj\Debug\POS.Startup.frmStratup.resources
+D:\Projects\POS\POS.Startup\obj\Debug\POS.Startup.Properties.Resources.resources
+D:\Projects\POS\POS.Startup\obj\Debug\POS.Startup.csproj.GenerateResource.Cache
+D:\Projects\POS\POS.Startup\obj\Debug\POS.Startup.exe
+D:\Projects\POS\POS.Startup\obj\Debug\POS.Startup.pdb
